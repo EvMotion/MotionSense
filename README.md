@@ -4,6 +4,10 @@ MotionSense is a work in progress software tool designed to capture, analyze, an
 
 # Working note:
 
+## Skeleton 
+- links:
+    - https://github.com/LiiNen/CV_skeleton_provider
+
 ### Background removal
 ![screenshot](./background_substraction/FG_Mask_Screenshot.png)
 
