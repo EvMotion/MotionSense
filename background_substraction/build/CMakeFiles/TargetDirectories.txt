@@ -1,0 +1,3 @@
+/home/stian/code/EventSight/background_substraction/build/CMakeFiles/EventSight.dir
+/home/stian/code/EventSight/background_substraction/build/CMakeFiles/edit_cache.dir
+/home/stian/code/EventSight/background_substraction/build/CMakeFiles/rebuild_cache.dir
